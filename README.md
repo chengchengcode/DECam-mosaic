@@ -2,6 +2,8 @@
 
 Here is an example of stacking the CTIO/DECam image. Some process can be improved to save the hard drive space.
 
+The astrometry of the DECam image is perfect in this case, so I did not refine the astrometry.
+
 ## 1, Mask science and weight image: data-preduction.pro
 
 For the data from 2020, sometimes the weight image and science image have one pixel offset. 
